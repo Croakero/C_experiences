@@ -1,2 +1,2 @@
-# Ctest
-Testing whether github runs well on my computer
+# 2022华中科技大学C语言头歌试题解答
+一个边学边写的版本，大一刚入门水平，仅供参考。
