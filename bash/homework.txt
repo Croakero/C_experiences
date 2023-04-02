@@ -1,5 +1,0 @@
--a显示隐藏文件
--c     with -lt: sort by, and show, ctime (time of last modification of file status information); with -l: show ctime and sort by name; otherwise: sort by ctime, newest first
-with -ls是合适的选项
---color[=WHEN]color the output WHEN; more info below
--h, --human-readable with -l and -s, print sizes like 1K 234M 2G etc.
